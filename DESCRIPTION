@@ -1,7 +1,7 @@
 Package: Counternull
 Type: Package
 Title: Randomization-Based Inference
-Version: 0.2.1
+Version: 0.2.12
 Authors@R: c(
     person("Mabene", "Yasmine", email = "ymabene@stanford.edu", 
     role = c("aut", "cre")),
@@ -27,10 +27,10 @@ Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2024-02-21 21:09:32 UTC; yasmi
+Packaged: 2024-02-23 23:20:38 UTC; yasmi
 Author: Mabene Yasmine [aut, cre],
   Bind Marie [aut],
   Harvard University [cph]
 Maintainer: Mabene Yasmine <ymabene@stanford.edu>
 Repository: CRAN
-Date/Publication: 2024-02-21 21:22:40 UTC
+Date/Publication: 2024-02-24 21:20:12 UTC
